@@ -1,2 +1,2 @@
-# Fidex-Express
-Fidex Express – A modern courier and delivery service website.
+# Fedex-Express
+Fedex Express – A modern courier and delivery service website.
